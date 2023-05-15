@@ -44,14 +44,14 @@ Aplikasi Setoran BooBank membutuhkan lingkungan berikut untuk berjalan:
 2. PHP versi baru.
 
 ## Struktur
-📁 aplikasi-setoran-boobank
-  ├── 📁 css
-  │   └── style.css
-  ├── 📁 images
-  │   └── boobank.png
-  ├── 📄 index.php
-  ├── 📄 rincian_setoran.txt
-  └── 📄 readme.md
+📦aplikasi-setoran-boobank
+ ┣ 📂css
+ ┃ ┗ 📜style.css
+ ┣ 📂images
+ ┃ ┗ 📜boobank.png
+ ┣ 📜index.php
+ ┣ 📜Readme.md
+ ┗ 📜rincian_setoran.txt
 
 ## Instalasi
 
