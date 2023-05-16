@@ -24,18 +24,6 @@ Aplikasi Setoran BooBank dibangun menggunakan teknologi-teknologi berikut:
 - *Sublime Text*: Editor teks sederhana untuk mengembangkan kode aplikasi.
 - *Google Chrome*: Aplikasi Google Chrome adalah browser web yang tersedia tanpa biaya yang merupakan tools penting dalam mmebuat sebuah halaman website,dsb.
 
-## Cara Menggunakan Aplikasi
-
-Berikut adalah langkah-langkah untuk menggunakan Aplikasi Setoran BooBank:
-
-1. Buka halaman aplikasi di browser Anda.
-2. Isi formulir dengan informasi yang diminta, seperti nama lengkap, jenis kelamin, kantor cabang, nomor rekening, dan nominal setoran.
-3. Klik tombol "Submit" untuk mengirimkan data setoran.
-4. Jika setoran valid, aplikasi akan menampilkan detail setoran, termasuk biaya admin (jika diperlukan) dan total setoran.
-5. Rincian setoran juga akan disimpan dalam file teks sebagai catatan.
-
-Pastikan Anda memasukkan setoran dengan benar dan mengikuti petunjuk yang diberikan oleh aplikasi.
-
 ## Persyaratan Sistem
 
 Aplikasi Setoran BooBank membutuhkan lingkungan berikut untuk berjalan:
@@ -67,6 +55,19 @@ c:\xampp\htdocs\
  ```
  http://localhost/aplikasi-setoran-boobank/
 ```
+
+## Cara Menggunakan Aplikasi
+
+Berikut adalah langkah-langkah untuk menggunakan Aplikasi Setoran BooBank:
+
+1. Buka halaman aplikasi di browser Anda.
+2. Isi formulir dengan informasi yang diminta, seperti nama lengkap, jenis kelamin, kantor cabang, nomor rekening, dan nominal setoran.
+3. Klik tombol "Submit" untuk mengirimkan data setoran.
+4. Jika setoran valid, aplikasi akan menampilkan detail setoran, termasuk biaya admin (jika diperlukan) dan total setoran.
+5. Rincian setoran juga akan disimpan dalam file teks sebagai catatan.
+
+Pastikan Anda memasukkan setoran dengan benar dan mengikuti petunjuk yang diberikan oleh aplikasi.
+
 
 ## Credit
 > Clarisya Adeline
