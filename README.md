@@ -1,7 +1,7 @@
 # Aplikasi Setoran BooBank
 ![BooBank](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRYGV1jzcK2_-ExmoHt64_ucznbLcDaX68Zc9OvxxkbQgPMM1FFejEIp_QXFvDV8Be75jGHghyLpN6mrTEmmRmiVAqdIPQih0oh5x6C-ROQ75xe-z6K2WDgp6VRAjURVs0FjSZY92csvg1YGMqJ06nf1FGPJzVVhaz2W9D2pt_gGlnbqw1XHgLlz_v/s320/boobank.png)
 
-Aplikasi Setoran BooBank adalah sebuah aplikasi sederhana yang memungkinkan pengguna untuk melakukan setoran tunai ke akun mereka. Aplikasi ini dibangun dengan menggunakan bahasa pemrograman PHP dan HTML.
+Aplikasi Setoran BooBank adalah sebuah aplikasi sederhana yang memungkinkan pengguna untuk melakukan setoran tunai ke akun mereka. Aplikasi ini dibangun dengan menggunakan bahasa pemrograman HTML, CSS, dan PHP.
 
 ## Fitur Utama
 
@@ -28,8 +28,7 @@ Aplikasi Setoran BooBank dibangun menggunakan teknologi-teknologi berikut:
 
 Aplikasi Setoran BooBank membutuhkan lingkungan berikut untuk berjalan:
 
-1. Server web yang mendukung PHP (misalnya Apache).
-2. PHP versi baru.
+- XAMPP (latest version is better)
 
 ## Struktur
 📦aplikasi-setoran-boobank
@@ -49,11 +48,11 @@ Pindahkan folder aplikasi-setoran-boobank ke dalam folder :
 ```
 c:\xampp\htdocs\
 ```
- Start apache pada XAMPPP
+Start apache pada XAMPPP
  
- Akses pada browser dengan url
- ```
- http://localhost/aplikasi-setoran-boobank/
+Akses pada browser dengan url
+```
+http://localhost/aplikasi-setoran-boobank/
 ```
 
 ## Cara Menggunakan Aplikasi
